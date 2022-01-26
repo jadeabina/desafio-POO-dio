@@ -2,7 +2,7 @@
 
 # Conteudos Mão Na Massa 🧡
 
-O projeto tem como finalidade de relembrar os pilares da orentação a objets como: Abstração, Encapsulamento, Herança e Polimorfismo, abstraindo um Bootcamp.
+O projeto tem como finalidade de relembrar os pilares da orentação a objetos como: Abstração, Encapsulamento, Herança e Polimorfismo, abstraindo um Bootcamp.
 
 
 🔺 ABSTRAÇÃO:
